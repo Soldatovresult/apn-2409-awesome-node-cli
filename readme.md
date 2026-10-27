@@ -17,3 +17,4 @@ Awesome Node CLI List
 - [http-server](https://github.com/http-party/http-server) Local HTTP Server
 - [ngrok](https://github.com/bubenshchykov/ngrok) Tunnel Server
 - [terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) Display Image in Terminal
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) Local x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only.
